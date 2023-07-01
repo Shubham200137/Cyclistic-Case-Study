@@ -16,4 +16,11 @@ A presentation has been prepared to share the findings and recommendations with 
 
 [Presentation to Stakeholders](https://docs.google.com/presentation/d/1cf0C8jB1hERkEj-JXU3VThhc2X95P1tw9i00P89n614/edit?usp=sharing)
 
+## **Data Source**
+
+The data used for the analysis can be accessed from [Data Source](https://divvy-tripdata.s3.amazonaws.com/index.html) on the Cyclistic website.
+
+Please refer to the provided links for more information on the data analysis process, case study visuals, presentation to stakeholders, and the data source.
+
+
 
