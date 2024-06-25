@@ -1,7 +1,8 @@
 # Cyclistic Case Study
 
 This repository contains a case study for one of Google's Data Analytics Professional Certificate capstone projects. The case study focuses on Cyclistic, a fictional bike sharing company based and operating in Chicago. The executive team at Cyclistic is looking for ways to drive growth and is considering a marketing strategy to convert a significant number of casual riders into members.
-[Case Study](https://drive.google.com/file/d/10Yx40fD-vtiV7a8vaFcIs0a0_Dbqij-y/view?usp=drive_link)
+
+[Case Study Details](https://drive.google.com/file/d/10Yx40fD-vtiV7a8vaFcIs0a0_Dbqij-y/view?usp=drive_link)
 
 As a junior data analyst on Cyclistic's marketing analytics team, the goal is to explore, process, and analyze relevant data to provide findings and recommendations to the executives. The complete report detailing the data analysis process can be found in the `Descriptive Analysis.ipynb` file.
 
